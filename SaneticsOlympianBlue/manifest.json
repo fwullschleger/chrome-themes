@@ -1,0 +1,23 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxUtZ6M2hC74mPcdASYc0Z+fX8Ss4/ReZk4o3YEbZwgbushl2fAHw6xss4YRMNLcx8/JAWWzXXV3ueRTW7oJZTaRuBp6Um+Waa8Ud1CwNWGax0tQm8ciM4riTKg+V2jyzL+HdljbJ/ZPymAHoPW8pvUxX9wD4AHBUKignAj8SGIPqX+c/deaRD/xgEvGH1ej8Ru+jHcrBM055w/vRpqPIcHy8S4i42MZtdNayqi9Xad8BL3U/ERna4vHBsM2oxSAjlzNI67cR6g0z95CfBMUc8aTBJmgRUu5HJL5l8KEIZfb2+6h2gm6hB7rjT6qBCnY+C+/H93x/rZBmxm3yYtR+UwIDAQAB",
+   "manifest_version": 2,
+   "name": "Sanetics/Olympian Blue",
+   "theme": {
+      "colors": {
+         "frame": [ 117, 147, 185 ],
+         "toolbar": [ 30, 78, 137 ],
+         "bookmark_text": [0, 0, 0],
+         "tab_background_text": [0, 0, 0],
+         "tab_text": [0, 0, 0]
+      },
+      "tints": {
+         "buttons": [ 0.1, 0.7, 0.2 ],
+         "frame_inactive": [ -1, -1, -1 ],
+         "frame_incognito": [ 0.1, 0, 0.7 ],
+         "frame_incognito_inactive": [ 0.1, 0, 0.7 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0"
+}
